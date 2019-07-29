@@ -1,0 +1,12 @@
+.posts {
+    display: flex;
+    flex-direction: column;
+    margin: auto 0;
+}
+.postImage {
+    height: 400px;
+    width: 400px;
+}
+.inputCommnet {
+    margin-top: 10px;
+}
